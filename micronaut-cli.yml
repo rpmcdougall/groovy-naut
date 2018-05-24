@@ -1,0 +1,5 @@
+profile: service
+defaultPackage: groovy.naut
+---
+testFramework: spock
+sourceLanguage: groovy
